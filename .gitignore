@@ -49,4 +49,8 @@ coverage/
 *.pid
 
 # Local Deployment
+<<<<<<< HEAD
 *.local
+=======
+*.local
+>>>>>>> b9dddaef9d34ed55670dd76c23b484058f7ef92b
